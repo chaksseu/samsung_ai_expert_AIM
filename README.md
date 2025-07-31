@@ -1,8 +1,9 @@
 # AIM: Adapting Image Models for Efficient Video Action Recognition
 
-This repo is the official implementation of ["AIM: Adapting Image Models for Efficient Video Action Recognition"](https://openreview.net/pdf?id=CIoSZ_HKHS7) at ICLR 2023.
+This repository is a modified version of the original [taoyang1122/adapt-image-models](https://github.com/taoyang1122/adapt-image-models), which was released as part of the ICLR 2023 paper:  [**AIM: Adapting Image Models for Efficient Video Action Recognition**](https://openreview.net/pdf?id=CIoSZ_HKHS7).
 
-If you find our work useful in your research, please cite:
+
+If you find our work useful, please consider citing:
 ```
 @inproceedings{
     yang2023aim,
